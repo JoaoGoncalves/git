@@ -1,2 +1,12 @@
 texto para o prefacio do livro
 acrescentar texto
+
+2c2087c (HEAD -> titulo) inserido master com rodape no titulo
+b4739da acrescentado titulo do livro
+a2157a5 (rodape, master) acrescentado rodape
+823da09 novo paragrafo do capitulo 1
+2f21491 commit alteracao do capitulo 1
+9b824c6 removidas as notas
+7021cdf aacrescentado ficheiro de notas
+6402be1 acrescentado prefaqcio inicial
+5c23e8e initial commit
