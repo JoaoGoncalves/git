@@ -1,6 +1,7 @@
 TITULO DO LIVRO
 ----------------------
 
-Era uma vez .....
+Era uma vez alguem que queria ser developer...
 
-um texto qualquer
+------------------------
+Info de rodape, ©2025
